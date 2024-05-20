@@ -1,0 +1,31 @@
+Nota:
+
+introduccion: 
+
+El sistema que desarrollaremos tendrá como principal función la asignación de turnos médicos. El mismo contará con un menú el cuál, entre otras acciones, 
+permitirá crear usuarios para el registro de información,
+la mencionada asignación de turnos, información de los profesionales, etc.
+ch
+
+
+Nota:
+Crear perfil
+Hacer credencia
+sacar turno
+cancelar turno
+ver turnos asignados a cada profesional
+resumen historia clinica
+
+Class Fecha
+
+Class persona
+
+Class Usuario
+
+Class Profesional(declararla y definirla) Dessarollo 
+
+Informe
+
+Introduccion:
+
+Orientado

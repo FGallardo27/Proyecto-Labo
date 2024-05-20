@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1714334786 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classfecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"classFecha.h"
+
+1713912734 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classfecha.h
+
+1716243556 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classusuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"classFecha.h"
+	"classPersona.h"
+
+1716244815 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classpersona.h
+	<cstring>
+	"funcionesAux.h"
+	"classFecha.h"
+
+1714435561 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\funcionesaux.h
+
+1714435561 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\funcionesaux.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesAux.h"
+
+1716244999 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\main.cpp
+	<iostream>
+	"classPersona.h"
+
+1716243536 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classpersona.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesAux.h"
+	"classPersona.h"
+
