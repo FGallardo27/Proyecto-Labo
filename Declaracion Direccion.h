@@ -10,19 +10,19 @@ public:
 
     void cargar();
     void mostrar();
-    void setCalle(const char *c);
-    void setBarrio(const char *b);
+    void setCalle(std::string calle);
+    void setBarrio(std::string barrio);
     void setNumero (int n);
     void setCodigoPostal (int cp);
-    void setLocalidad (const char *l);
-    void setProvincia (const char *p);
+    void setLocalidad (std::string localidad);
+    void setProvincia (std::string provincia);
 
-    char const *getCalle();
-    char const *getBarrio();
+    std::string getCalle();
+    std::string getBarrio();
     int getNumero ();
     int getCodigoPostal();
-    char const *getLocalidad();
-    char const *getProvincia();
+    std::string getLocalidad();
+    std::string getProvincia();
 };
 
 #endif // DECLARACION_DIRECCION_H_INCLUDED
