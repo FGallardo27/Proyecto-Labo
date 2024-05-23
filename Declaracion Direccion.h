@@ -1,7 +1,6 @@
 #ifndef DECLARACION_DIRECCION_H_INCLUDED
 #define DECLARACION_DIRECCION_H_INCLUDED
 
-void cargarCadena(char *pal, int tam);
 
 class direccion{
 
