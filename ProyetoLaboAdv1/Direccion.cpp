@@ -1,12 +1,10 @@
+
 #include <iostream>
 #include <cstring>
 #include<cstdlib>
-
 using namespace std;
 #include "funcionesAux.h"
 #include "Direccion.h"
-
-
 void direccion::cargar(){
     cout<<"INGRESE CALLE:"<<endl;
     cargarCadena(_calle,30);
