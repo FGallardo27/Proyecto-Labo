@@ -4,7 +4,7 @@
 
 using namespace std;
 #include "funcionesAux.h"
-#include "classPersona.h"
+#include "Persona.h"
 
 
 Persona::Persona():_fechaNacimiento(20,5,2004)

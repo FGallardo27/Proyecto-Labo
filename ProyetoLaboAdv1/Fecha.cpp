@@ -2,7 +2,7 @@
 using namespace std;
 #include<cstdlib>
 #include<cstring>
-#include "classFecha.h"
+#include "Fecha.h"
 
 
 fecha::fecha(){

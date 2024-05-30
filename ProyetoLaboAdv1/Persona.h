@@ -2,7 +2,7 @@
 #define CLASSPERSONA_H_INCLUDED
 #include <cstring>
 #include "funcionesAux.h"
-#include "classFecha.h"
+#include "Fecha.h"
 
 class Persona{
     protected:

@@ -32,16 +32,44 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="classFecha.cpp" />
-		<Unit filename="classFecha.h" />
-		<Unit filename="classPersona.cpp" />
-		<Unit filename="classPersona.h" />
-		<Unit filename="classUsuario.cpp">
+		<Unit filename="Administrador.cpp" />
+		<Unit filename="Administrados.h" />
+		<Unit filename="ArchivoAdm.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="classUsuario.h">
+		<Unit filename="ArchivoAdm.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="ArchivoPacientes.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ArchivoPacientes.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ArchivosProfesionales.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ArchivosProfesionales.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Direccion.cpp" />
+		<Unit filename="Direccion.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="PacienteManager.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Pacientes.cpp" />
+		<Unit filename="Pacientes.h" />
+		<Unit filename="PacientesManager.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Profesional.cpp" />
+		<Unit filename="Profesional.h" />
+		<Unit filename="Usuario.cpp" />
+		<Unit filename="Usuario.h" />
 		<Unit filename="funcionesAux.cpp" />
 		<Unit filename="funcionesAux.h" />
 		<Unit filename="main.cpp" />

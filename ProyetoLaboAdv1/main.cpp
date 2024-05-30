@@ -1,14 +1,16 @@
 #include <iostream>
-#include "classPersona.h"
+#include<cstdlib>
+#include<cstring>
+
 using namespace std;
-#include "classUsuario.h"
+#include "Persona.h"
+#include "Usuario.h"
+#include "Pacientes.h"
 
-int main()
-{
+int main(){
+    cout<<"paciente: "<<endl;
+    Pacientes h;
 
-    Persona p;
-    p.cargarPersona();
-    Usuario h;
-    cout << "Hello world!" << endl;
+
     return 0;
 }
