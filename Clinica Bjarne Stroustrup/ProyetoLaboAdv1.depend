@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1714334786 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classfecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"classFecha.h"
+
+1713912734 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classfecha.h
+
+1716243556 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classusuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"classFecha.h"
+	"classPersona.h"
+
+1716244815 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classpersona.h
+	<cstring>
+	"funcionesAux.h"
+	"classFecha.h"
+
+1714435561 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\funcionesaux.h
+
+1714435561 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\funcionesaux.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesAux.h"
+
+1716683167 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Usuario.h"
+	"Pacientes.h"
+
+1716500808 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\classpersona.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesAux.h"
+	"classPersona.h"
+
+1716677319 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesAux.h"
+	"Persona.h"
+
+1716674892 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\persona.h
+	<cstring>
+	"funcionesAux.h"
+	"Fecha.h"
+
+1713912734 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\fecha.h
+
+1716674921 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\administrador.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Administrados.h"
+
+1716677277 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\administrados.h
+
+1716674933 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1716675315 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\direccion.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"funcionesAux.h"
+	"Direccion.h"
+
+1716509860 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\direccion.h
+
+1716675289 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\profesional.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Profesional.h"
+
+1716674892 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\profesional.h
+	<iostream>
+	"Persona.h"
+
+1716692960 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Usuario.h"
+
+1716692961 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\usuario.h
+	<cstring>
+	"Persona.h"
+
+1716679886 c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\pacientes.h
+	<cstring>
+	"Persona.h"
+
+1716687239 source:c:\users\fedin\onedrive\escritorio\proyecto labo\proyetolaboadv1\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Pacientes.h"
+
