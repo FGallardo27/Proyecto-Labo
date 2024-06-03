@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1717372158 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\administrador.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Administrados.h"
+
+1717374061 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\persona.h
+	"Fecha.h"
+	"direccion.h"
+
+1717099077 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\funcionesaux.h
+
+1717099077 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\fecha.h
+
+1717372055 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\administrados.h
+	"Persona.h"
+
+1717194599 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\direccion.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"funcionesAux.h"
+	"Direccion.h"
+
+1717199794 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\direccion.h
+
+1717099077 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1717099077 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\funcionesaux.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesAux.h"
+
+1717371174 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+	"direccion.h"
+	"Persona.h"
+	"Usuario.h"
+	"ManagerUsuario.h"
+	"Pacientes.h"
+	"Administrados.h"
+
+1717374862 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\usuario.h
+	<string>
+
+1717372329 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\pacientes.h
+	<cstring>
+	"Usuario.h"
+	"Persona.h"
+
+1717099077 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\pacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Pacientes.h"
+
+1717106842 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesAux.h"
+	"Fecha.h"
+	"direccion.h"
+	"Persona.h"
+
+1717099077 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\profesional.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Profesional.h"
+
+1717375190 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\profesional.h
+	<iostream>
+	"Persona.h"
+	"Usuario.h"
+
+1717099077 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Usuario.h"
+
+1717372187 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\archivoadm.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Administrados.h"
+	"ArchivoAdm.h"
+
+1717104791 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\archivoadm.h
+	"Administrados.h"
+
+1717371619 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\archivopacientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Pacientes.h"
+	"ArchivoPacientes.h"
+
+1717106736 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\archivopacientes.h
+	"Pacientes.h"
+	<string>
+
+1717374112 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\archivosprofesionales.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Persona.h"
+	"Profesional.h"
+	"ArchivosProfesionales.h"
+
+1717106408 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\archivosprofesionales.h
+	"Profesional.h"
+
+1717106813 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\pacientemanager.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Pacientes.h"
+	"ArchivoPacientes.h"
+	"PacientesManager.h"
+
+1717106736 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\pacientesmanager.h
+	"Pacientes.h"
+	"ArchivoPacientes.h"
+
+1717371918 c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\managerusuario.h
+	"funcionesAux.h"
+	"Persona.h"
+	"Usuario.h"
+
+1717372527 source:c:\users\hp\onedrive\escritorio\clases\archivos\clinica bjarne stroustrup\managerusuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesAux.h"
+	"Persona.h"
+	"Usuario.h"
+	"ManagerUsuario.h"
+

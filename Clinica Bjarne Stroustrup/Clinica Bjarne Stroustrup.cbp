@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Clinica Bjarne Stroustrup" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Clinica Bjarne Stroustrup" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Clinica Bjarne Stroustrup" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Administrador.cpp" />
+		<Unit filename="Administrados.h" />
+		<Unit filename="ArchivoAdm.cpp" />
+		<Unit filename="ArchivoAdm.h" />
+		<Unit filename="ArchivoPacientes.cpp" />
+		<Unit filename="ArchivoPacientes.h" />
+		<Unit filename="ArchivosProfesionales.cpp" />
+		<Unit filename="ArchivosProfesionales.h" />
+		<Unit filename="Clinica Bjarne Stroustrup.cbp" />
+		<Unit filename="Direccion.cpp" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="ManagerUsuario.cpp" />
+		<Unit filename="ManagerUsuario.h" />
+		<Unit filename="PacienteManager.cpp" />
+		<Unit filename="Pacientes.cpp" />
+		<Unit filename="Pacientes.h" />
+		<Unit filename="PacientesManager.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Profesional.cpp" />
+		<Unit filename="Profesional.h" />
+		<Unit filename="Usuario.cpp" />
+		<Unit filename="Usuario.h" />
+		<Unit filename="direccion.h" />
+		<Unit filename="funcionesAux.cpp" />
+		<Unit filename="funcionesAux.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
